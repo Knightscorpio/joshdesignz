@@ -42,7 +42,7 @@ const Hero = () => {
               isDark ? 'text-gray-300' : 'text-gray-600'
             }`}
           >
-            {BRAND.tagline} — building modern, high‑converting digital experiences.
+            {BRAND.tagline}  building modern, high‑converting digital experiences.
           </motion.p>
 
           <motion.div
