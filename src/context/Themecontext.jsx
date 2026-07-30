@@ -11,7 +11,7 @@ export const ThemeProvider = ({ children }) => {
 
   useEffect(() => {
     localStorage.setItem('theme', isDark ? 'dark' : 'light');
-    // Apply class to html element for global styles if needed
+    
     document.documentElement.classList.toggle('dark', isDark);
   }, [isDark]);
 
