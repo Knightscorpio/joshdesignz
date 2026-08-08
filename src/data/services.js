@@ -24,20 +24,13 @@ export const services = [
   },
   {
     id: 4,
-    icon: FiCode,
-    title: "WEBSITE DEVELOPMENT",
-    description: "Clean & performance-driven code",
-    color: "bg-green-50 text-green-600"
-  },
-  {
-    id: 5,
     icon: FiServer,
     title: "CMS DEVELOPMENT",
     description: "WordPress & custom CMS solutions",
     color: "bg-orange-50 text-orange-600"
   },
   {
-    id: 6,
+    id: 5,
     icon: FiTool,
     title: "MAINTENANCE",
     description: "Ongoing support & website care",

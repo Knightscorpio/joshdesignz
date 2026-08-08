@@ -72,10 +72,10 @@ const Contact = () => {
             </div>
 
             <div className="flex gap-3 pt-2">
-              <a href={BRAND.social.instagram} target="_blank" rel="noopener" className="text-sm font-medium text-[#7C3AED] hover:underline">Instagram</a>
-              <a href={BRAND.social.linkedin} target="_blank" rel="noopener" className="text-sm font-medium text-[#7C3AED] hover:underline">LinkedIn</a>
-              <a href={BRAND.social.facebook} target="_blank" rel="noopener" className="text-sm font-medium text-[#7C3AED] hover:underline">Facebook</a>
-            </div>
+  <a href="https://wa.me/2349164434346" target="_blank" rel="noopener" className="text-sm font-medium text-[#7C3AED] hover:underline">WhatsApp</a>
+  <a href={BRAND.social.linkedin} target="_blank" rel="noopener" className="text-sm font-medium text-[#7C3AED] hover:underline">LinkedIn</a>
+  <a href="https://x.com/joshdesignz001?s=11" target="_blank" rel="noopener" className="text-sm font-medium text-[#7C3AED] hover:underline">X</a>
+</div>
           </motion.div>
 
           <motion.form

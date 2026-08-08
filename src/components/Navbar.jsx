@@ -27,7 +27,7 @@ const Navbar = () => {
         {/* Logo – bigger: h-16 on mobile, h-20 on larger */}
         <a href="#home" className="flex items-center">
           <img 
-            src="/images/brand/joshdesignz newest.png" 
+            src="/images/brand/joshdesignz newest.jpg" 
             alt="Josh Designz" 
             className="h-16 md:h-20 w-auto object-contain transition-all duration-300"
           />

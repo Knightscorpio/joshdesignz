@@ -9,7 +9,7 @@ export const testimonials = [
     id: 2,
     brand: "Delivar",
     project: "Logo & Collateral",
-    quote: "Professional, fast, and creative – we couldn't be happier."
+    quote: "Professional, fast, and creative, we couldn't be happier."
   },
   {
     id: 3,
@@ -39,7 +39,7 @@ export const testimonials = [
     id: 7,
     brand: "MTM",
     project: "Full Rebrand",
-    quote: "Josh is a genius – he transformed our entire brand identity."
+    quote: "Josh is a genius, he transformed our entire brand identity."
   },
   {
     id: 8,
